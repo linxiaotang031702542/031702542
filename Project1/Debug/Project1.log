@@ -1,0 +1,14 @@
+﻿  addressbook.cpp
+f:\软工\项目\project1\project1\addressbook.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(54): warning C4018: “>”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(88): warning C4018: “>”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(110): warning C4018: “>”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(117): warning C4018: “<”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(135): warning C4018: “>”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(165): warning C4018: “>”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+f:\软工\项目\project1\project1\addressbook.cpp(186): warning C4018: “>”: 有符号/无符号不匹配
+  Project1.vcxproj -> F:\软工\项目\Project1\Debug\Project1.exe
